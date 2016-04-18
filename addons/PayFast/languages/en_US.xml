@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+    <definitions>
+        <definition>
+            <key>addon_payment_payfast_title</key>
+            <value><![CDATA[PayFast]]></value>
+            <group>checkout</group>
+        </definition>
+        <definition>
+            <key>addon_payment_payfast_description</key>
+            <value><![CDATA[PayFast is a South African payment gateway, allowing you to accept payments via Credit Card, Instant EFT, BitCoin, Debit and Cheque Card etc.]]></value>
+            <group>checkout</group>
+        </definition>
+        <definition>
+            <key>payment_payfast_title</key>
+            <value><![CDATA[PayFast]]></value>
+            <group>checkout</group>
+        </definition>
+        <definition>
+            <key>payment_payfast_method_title</key>
+            <value><![CDATA[PayFast]]></value>
+            <group>checkout</group>
+        </definition>
+        <definition>
+            <key>payment_payfast_error_server</key>
+            <value><![CDATA[ERROR: There was no response from the PayFast server. Please try again.]]></value>
+            <group>checkout</group>
+        </definition>
+        <definition>
+            <key>payment_payfast_error_occurred</key>
+            <value><![CDATA[ERROR: %s. Please try again.]]></value>
+            <group>checkout</group>
+        </definition>
+    </definitions>
+</language>
