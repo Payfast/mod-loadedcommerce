@@ -117,7 +117,7 @@ if( $pfError )
 }
 
 //// Check status and update order
-if( /*!$pfError &&*/ !$pfDone )
+if( !$pfError && !$pfDone )
 {
     pflog('Check Status and Update Order');
 
